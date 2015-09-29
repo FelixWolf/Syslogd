@@ -1,0 +1,1 @@
+A slightly simple syslogd with logging capabilities and configuration
